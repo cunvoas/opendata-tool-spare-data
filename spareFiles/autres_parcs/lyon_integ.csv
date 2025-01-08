@@ -1,0 +1,593 @@
+uid,nom,num,numvoie,voie,codepost,commune,code_insee,surf_tot_m2,clos
+PAR-69204-001,Parc historique de Beauregard,1,,Rue Edouard Millaud,69230,Saint-Genis-Laval,69204,36358,
+PAR-69204-002,Parc de la Maison des Champs,2,130,Avenue Georges Clemenceau,69230,Saint-Genis-Laval,69204,4506,
+PAR-69286-008,Parc des Horizons,8,10,Boulevard De Lattre de Tassigny,69140,Rillieux-la-Pape,69286,10804,2015
+PAR-69266-040,Espace de vie de l'Abbe Bordes,40,33,Rue Armand,69100,Villeurbanne,69266,3423,1989
+PAR-69266-096,Parc Jacob Hugentobler (et Esplanade),96,20,Rue Valentin Haüy,69100,Villeurbanne,69266,6215,2017
+PAR-69266-088,Square Félix Lebossé,88,85,Rue Anatole France,69100,Villeurbanne,69266,4299,1978
+PAR-69266-039,Square Henri Bertrand,39,119,Rue Anatole France,69100,Villeurbanne,69266,1521,
+PAR-69266-098,Square du Château,98,61,Rue Château Gaillard,69100,Villeurbanne,69266,5637,
+PAR-69256-002,Jardin de la Paix et des Libertés,2,,Rue Condorcet,69120,Vaulx-en-Velin,69256,10693,2005
+PAR-69266-181,Jardin des Poulettes,181,45,Rue Edouard Vaillant,69100,Villeurbanne,69266,553,2004
+PAR-69266-180,Jardin de poche Bienvenus Perroncel,180,132,Rue des Bienvenus,69100,Villeurbanne,69266,365,2011
+PAR-69266-187,Square Alice et Andre Vansteenberghe,187,11,Rue Château Gaillard,69100,Villeurbanne,69266,3053,1991
+PAR-69266-194,Square du 19 mars 1962,194,,Rue Francis de Pressensé,69100,Villeurbanne,69266,1955,1961
+PAR-69266-195,Square du Temps des Cerises,195,,Rue Prisca,69100,Villeurbanne,69266,2824,1992
+PAR-69266-207,Square Association Rhin et Danube,207,212,Rue Francis de Pressensé,69100,Villeurbanne,69266,271,1966
+PAR-69266-212,Square des Anciens Combattants d'Afrique du Nord,212,132,Rue Louis Becker,69100,Villeurbanne,69266,2510,
+PAR-69266-369,Square de la Concorde,369,63,Rue Henri Legay,69100,Villeurbanne,69266,610,1970
+PAR-69266-379,Espace de l'Europe Jean Monnet,379,,Avenue Antoine Dutrievoz,69100,Villeurbanne,69266,17944,1980
+PAR-69266-381,Parc Etienne Gagnaire,381,3,Rue Etienne Gagnaire,69100,Villeurbanne,69266,8728,2001
+PAR-69266-382,Parc de la Commune de Paris,382,83,Rue Pierre Voyant,69100,Villeurbanne,69266,25251,1966
+PAR-69266-384,Square de la Doua,384,,Boulevard du 11 Novembre 1918,69100,Villeurbanne,69266,11362,1978
+PAR-69266-385,Parc Marx Dormoy,385,2,Rue de la Pouponnière,69100,Villeurbanne,69266,2624,1925
+PAR-69266-386,Square de la Plaine Robinson,386,192,Rue du 4 Août 1789,69100,Villeurbanne,69266,1202,
+PAR-69266-387,Jardin de l'Embellie,387,1,Rue Bernard Lecache,69100,Villeurbanne,69266,2957,
+PAR-69266-388,Jardin des Clairs-Bois,388,51,Rue Dedieu,69100,Villeurbanne,69266,237,2007
+PAR-69266-392,Square Marcel Doret,392,2,Rue Marcel Doret,69100,Villeurbanne,69266,423,
+PAR-69266-389,Square de la France Libre - Charles de Gaulle,389,251,Cours Emile Zola,69100,Villeurbanne,69266,2332,1967
+PAR-69266-390,Square Edmond Michelet,390,10,Avenue Condorcet,69100,Villeurbanne,69266,1769,
+PAR-69266-391,Square Gendron,391,36,Rue Viret,69100,Villeurbanne,69266,408,
+PAR-69382-02247,Jardin Aquatique Ouagadougou,2247,1,Quai Rambaud,69002,Lyon,69382,9718,
+PAR-69256-057,Square Monique Martin,57,,Rue Jeanne Morel,69120,Vaulx-en-Velin,69256,146,
+PAR-69286-009,Parc boisé de Vancia Château Bérard,9,5059,Route de Strasbourg,69140,Rillieux-la-Pape,69286,83921,2021
+PAR-69256-037,Esplanade Tase,37,,Avenue des Canuts/Avenue Bataillon Carmagole Liber,69120,Vaulx-en-Velin,69256,14090,2020
+PAR-69256-038,Allée des Marronniers,38,,Allée des Marronniers,69120,Vaulx-en-Velin,69256,1037,2020
+PAR-69383-53333,Berge du Rhône 3e,53333,1,Quai Victor Auganeur,69003,Lyon,69383,32786,
+PAR-69383-03016,Bois des Chênes,3016,37,Rue Jules Massenet,69003,Lyon,69383,10201,
+PAR-69256-039,Espace vert des Verchères,39,,Rue des Verchères,69120,Vaulx-en-Velin,69256,3604,
+PAR-69256-040,Square André Malraux,40,,Square André Malraux,69120,Vaulx-en-Velin,69256,2706,2017
+PAR-69256-013,Jardin astronomique du Planétarium,13,,Place de la Nation,69120,Vaulx-en-Velin,69256,2782,2017
+PAR-69266-214,Parc Edouard Glissant,214,62,Avenue Roger Salengro,69100,Villeurbanne,69266,3408,2011
+PAR-69256-003,Square Danielle Casanova,3,,Avenue Roger Salengro,69120,Vaulx-en-Velin,69256,4373,
+PAR-69256-008,Parc du Château,8,,Rue Franklin,69120,Vaulx-en-Velin,69256,4361,2015
+PAR-69266-003,Jardin Alexis Jordan,3,77,Rue Château Gaillard,69100,Villeurbanne,69266,7444,2004
+PAR-69266-377,Square des Justes,377,16,Rue Docteur Ollier,69100,Villeurbanne,69266,81,
+PAR-69286-029,Parc de la Roue,29,,Rue de la Barse,69140,Rillieux-la-Pape,69286,6665,1970
+PAR-69266-011,Parc des Droits de l'Homme - Maison des aînés,11,56,Rue Du 1 Mars 1943,69100,Villeurbanne,69266,17603,1981
+PAR-69266-013,Parc Vaclav Havel,13,118,Cours Tolstoï,69100,Villeurbanne,69266,2636,2013
+PAR-69266-014,Square Berty Albrecht,14,14,Place Jules Grandclément,69100,Villeurbanne,69266,1129,1977
+PAR-69266-015,Square de la Roseraie,15,28,Avenue Marc Sangnier,69100,Villeurbanne,69266,2857,1956
+PAR-69266-016,Square du Bataillon Carmagnole Liberté,16,,Rue du 4 Septembre 1797,69100,Villeurbanne,69266,1356,1982
+PAR-69266-020,Jardin Jean Rictus,20,32,Rue Docteur Frappaz,69100,Villeurbanne,69266,1775,2010
+PAR-69266-021,Square Léon Meiss,21,,Allée Léon Meiss,69100,Villeurbanne,69266,1157,1994
+PAR-69266-018,Jardin des tout petits Adolphe Lafont,18,19,Avenue Marc Sangnier,69100,Villeurbanne,69266,2863,1929
+PAR-69266-025,Dalle Jules Guesde,25,116,Rue de la Ligne de l'Est,69100,Villeurbanne,69266,7396,
+PAR-69266-029,Square Roger Palanche et René Vidal,29,,Rue des Charmettes,69100,Villeurbanne,69266,202,
+PAR-69266-033,Jardin Alfred Sauvy,33,46,Rue du Progrès,69100,Villeurbanne,69266,1989,
+PAR-69266-034,Square Allée du Couchant,34,,Allée du Couchant,69100,Villeurbanne,69266,2138,
+PAR-69266-031,Jardin Marcel Claeys,31,27,Rue Hippolyte Kahn,69100,Villeurbanne,69266,654,
+PAR-69266-032,Square Victor Basch,32,24,Rue Victor Basch,69100,Villeurbanne,69266,384,
+PAR-69266-042,Square Jacques Prevert,42,63,Cours Tolstoï,69100,Villeurbanne,69266,6262,1978
+PAR-69266-038,Square Florian,38,56,Rue Florian,69100,Villeurbanne,69266,3332,1973
+PAR-69266-044,Jardin des Milles Couleurs,44,2,Rue Pierre Baratin,69100,Villeurbanne,69266,2273,1999
+PAR-69266-106,Parc Chanteur,106,53,Rue Francis de Pressensé,69100,Villeurbanne,69266,7458,1994
+PAR-69266-367,Parc Jorge Semprun,367,14,Rue Willy Brandt,69100,Villeurbanne,69266,5313,2019
+PAR-69266-376,Parc Nathalie Gautier,376,18,Rue Jean Jaurès,69100,Villeurbanne,69266,2823,2007
+PAR-69266-378,Square Henri Frenay,378,,Rue Julien Peyhorgue,69100,Villeurbanne,69266,1336,
+PAR-69266-380,Parc Vaillant couturier,380,59,Rue Léon Blum,69100,Villeurbanne,69266,7952,1946
+PAR-69266-394,Parc René Dumont,394,66,Avenue Galline,69100,Villeurbanne,69266,2249,
+PAR-69266-395,Square René Pellet,395,74,Cours Emile Zola,69100,Villeurbanne,69266,1529,1994
+PAR-69266-393,Square Marie Claude Thivillon,393,3,Rue Frédéric Faÿs,69100,Villeurbanne,69266,253,
+PAR-69266-397,Square Maurice Ferréol,397,11,Rue de l'Avenir,69100,Villeurbanne,69266,4122,
+PAR-69286-030,Parc de Buisière,30,10,chemin de la Buissière,69140,Rillieux-la-Pape,69286,3760,1990
+PAR-69385-55066,Jardin place des Minimes,55066,1,Place des Minimes,69005,Lyon,69385,6718,
+PAR-69388-08300,Jardin place Jean Mermoz,8300,1,Place Jean Mermoz,69008,Lyon,69388,9036,
+PAR-69383-53072,Jardin place Pierre Renaudel,53072,1,Place Pierre Renaudel,69003,Lyon,69383,2230,
+PAR-69286-028,Parc Doisneau,28,5,Rue Alexandre Dumas,69140,Rillieux-la-Pape,69286,4638,2022
+PAR-69286-017,Parc Linéaire,17,165,Rue Ampère,69140,Rillieux-la-Pape,69286,70510,2018
+PAR-69256-001,Parc Elsa Triolet,1,137,Avenue du 8 mai 1945,69120,Vaulx-en-Velin,69256,30555,
+PAR-69387-07290,Parc des Berges Sud,7290,1,Quai du Canada,69007,Lyon,69387,49728,
+PAR-69286-035,Place du Château,35,1,Place du Château,69140,Rillieux-la-Pape,69286,3262,1970
+PAR-69286-003,Les parcs urbain de Vancia,3,6,Rue de l'école,69140,Rillieux-la-Pape,69286,9815,1980
+PAR-69286-024,Bois de Osterode,24,741,Route du Mas Rillier,69140,Rillieux-la-Pape,69286,96224,2021
+PAR-69286-038,Vallons du Ravins Ouest,38,,,69140,Rillieux-la-Pape,69286,98932,
+PAR-69040-001,Parc Simone Veil,1,,Rue de la Mairie,69410,Champagne-au-Mont-d'Or,69040,3031,
+PAR-69040-003,Parc des Loustics,3,,Rue de la Mairie,69410,Champagne-au-Mont-d'Or,69040,1877,2013
+PAR-69040-004,Parc des Pastourelles,4,,Boulevard de la République,69410,Champagne-au-Mont-d'Or,69040,2378,
+PAR-69040-005,Espace de loisirs du Coulouvrier,5,,Chemin du Coulouvrier,69410,Champagne-au-Mont-d'Or,69040,3460,2006
+PAR-69040-006,Square Claude Girardon,6,,Rue Bellevue,69410,Champagne-au-Mont-d'Or,69040,400,
+PAR-69286-026,Parc de la diversité Sermenaz,26,,Chemin de la Teyssonnière,69140,Rillieux-la-Pape,69286,412793,2007
+PAR-69081-001,Parc des Chênes ,1,22 bis,Avenue Edouard Aynard,69130,Écully ,69081,11500,
+PAR-69081-002,Jardin de la Condamine ,2,18,Avenue du Dr Terver,69130,Écully ,69081,6000,
+PAR-69081-003,Parc du Vivier ,3,28,Chemin du Trouillat,69130,Écully ,69081,70000,
+PAR-69081-004,Parc du Centre Culturel,4,21,Avenue Edouard Aynard,69130,Écully ,69081,15000,
+PAR-69081-005,Le bois de Serres ,5,15,Chemin de Charbonnières,69130,Écully ,69081,1600000,
+PAR-69081-006,Parc et étang de Malrochet,6,31,Avenue Paul Santy,69130,Écully ,69081,5200,
+PAR-69081-007,Parc et étang des Calettes ,7,5,Chemin des Hautes Bruyères,69130,Écully ,69081,15000,
+PAR-69081-008,Square des anciens combattants d'Afrique du Nord,8,4,Rue Benoit Tabard,69130,Écully ,69081,920,
+PAR-69286-016,Voie verte Loup-pendu,16,700,Avenue Pierre Mendés France,69140,Rillieux-la-Pape,69286,32047,2017
+PAR-69034-054,Square Sidonie-Gabrielle Colette,54,16,rue de Margnolles,69300,Caluire-et-Cuire,69034,7734,2024
+PAR-69286-034,Parc des Chantemerle,34,1,Chemin de Chantemerle,69140,Rillieux-la-Pape,69286,10021,1990
+PAR-69286-040,test,40,,,69140,Rillieux-la-Pape,69286,296,
+PAR-69256-006,Square Manouchian,6,,Avenue Garibaldi,69120,Vaulx-en-Velin,69256,685,
+PAR-69256-007,Square Georges Seguin,7,,Rue Georges Seguin,69120,Vaulx-en-Velin,69256,2883,2013
+PAR-69256-009,Parc François Mitterrand,9,,Avenue Eugène Henaff,69120,Vaulx-en-Velin,69256,24529,2009
+PAR-69256-021,Plateau Rousseau,21,4,Rue Maurice Audin,69120,Vaulx-en-Velin,69256,12033,
+PAR-69256-023,Parc de la Rize,23,,Avenue Grandclément,69120,Vaulx-en-Velin,69256,113997,
+PAR-69256-024,Promenade jardinée,24,,Rue André Chénier,69120,Vaulx-en-Velin,69256,3950,2019
+PAR-69256-041,Place de la Thibaude,41,6,Rue Joannès Drevet,69120,Vaulx-en-Velin,69256,2904,
+PAR-69256-048,Jardin de la Grappinière,48,,Rue Général Charles Delestraint,69120,Vaulx-en-Velin,69256,901,2022
+PAR-69256-049,Îlot des Dentellières,49,4,Rue Maurice Moissonier,69120,Vaulx-en-Velin,69256,1443,2022
+PAR-69256-050,Square Terron-sur-Aisne,50,,Avenue du 8 mai 1945,69120,Vaulx-en-Velin,69256,773,
+PAR-69256-051,Promenade Lénine,51,,Promenade Lénine,69120,Vaulx-en-Velin,69256,34067,
+PAR-69256-052,Place Pasteur,52,,Place Pasteur,69120,Vaulx-en-Velin,69256,62,
+PAR-69256-053,Rue François Rabelais nord,53,,Rue François Rabelais,69120,Vaulx-en-Velin,69256,1425,2019
+PAR-69256-054,Chemin Claude Debussy,54,,Avenue Georges Dimitrov,69120,Vaulx-en-Velin,69256,626,
+PAR-69256-055,Parc du Lycée,55,,Rue Emile Zola,69120,Vaulx-en-Velin,69256,3996,2020
+PAR-69256-056,Place Toni Morrison,56,,Place Toni Morrison,69120,Vaulx-en-Velin,69256,1170,
+PAR-69256-060,Promenade Lénine/Rue Jules Romains,60,,Rue Jules Romains,69120,Vaulx-en-Velin,69256,2227,2023
+PAR-69256-062,Place de la Nation,62,,Place de la Nation,69120,Vaulx-en-Velin,69256,1084,
+PAR-69259-10803,Square Léa & Napoléon Bullukian,10803,0,Angle des rues Michel / Roux,69200,Vénissieux,69259,1432,
+PAR-69259-10905,Place Ennemond Romand,10905,0,Place Ennemond Romand,69200,Vénissieux,69259,11688,
+PAR-69259-10907,Square St Jean de Dieu,10907,2,Rue Vaillant Couturier,69200,Vénissieux,69259,1506,
+PAR-69259-11101,Parcelle Pressensé,11101,82,Avenue Francis de Pressensé,69200,Vénissieux,69259,6145,
+PAR-69259-11104,Square des maraîchers,11104,0,Rue Paul Reverchon,69200,Vénissieux,69259,1597,
+PAR-69259-11403,Square Laurent Gérin,11403,0,Agle de l'avenue Jean Jaurès / rue Carnot,69200,Vénissieux,69259,1708,
+PAR-69259-11404,Parc des Marronniers,11404,0,Avenue Jean Jaurès,69200,Vénissieux,69259,3819,
+PAR-69259-11502,Square Eugène Maréchal,11502,0,Rue de l'Ancienne Gare,69200,Vénissieux,69259,1014,
+PAR-69259-20302,Square Pernet-Ducher,20302,10,Avenue Jules Guesde,69200,Vénissieux,69259,1192,
+PAR-69259-20303,Square Paul Guibert,20303,27,Avenue Jules Guesde,69200,Vénissieux,69259,1866,
+PAR-69259-20602,Place Jeanne d'Arc,20602,0,Rue Eugène Labourde,69200,Vénissieux,69259,517,
+PAR-69259-20605,Square Joannès Vallet,20605,31,Rue Joannès Vallet,69200,Vénissieux,69259,616,
+PAR-69259-20606,Angle Vallet / Joliot Curie,20606,0,Angle des rues Joannès Vallet / Joliot Curie,69200,Vénissieux,69259,789,
+PAR-69259-20706,Place Grand Clément,20706,0,Rue Nelson Mandela,69200,Vénissieux,69259,14147,
+PAR-69259-20709,Grand Parilly,20709,0,Rue Simone Veil,69200,Vénissieux,69259,2531,
+PAR-69259-20804,Square Jean Lurçat,20804,8,Rue Jean Lurçat,69200,Vénissieux,69259,616,
+PAR-69259-21501,Terrain du Charbonnier,21501,28,Chemin du Charbonnier,69200,Vénissieux,69259,3779,
+PAR-69259-30103,Parc Louis Dupic,30103,0,Rue Jules Ferry,69200,Vénissieux,69259,14773,
+PAR-69259-30104,Parc Louis Dupic : Extension,30104,0,Rue Gambetta,69200,Vénissieux,69259,10408,
+PAR-69259-30108,Square de l'église,30108,26,Rue du Château,69200,Vénissieux,69259,1214,
+PAR-69259-30112,Angle Houël / Croizat / Jodino,30112,0,Angle des rues Houël / Croizat / Jodino,69200,Vénissieux,69259,5718,
+PAR-69259-30114,Place de la Paix,30114,8,Place de la Paix,69200,Vénissieux,69259,1391,
+PAR-69259-30304,Square Coblod,30304,78,Boulevard du Docteur Coblod,69200,Vénissieux,69259,4406,
+PAR-69259-30305,Mail piétonnier Max Barel,30305,0,Du boulevard du Docteur Coblod à la rue Max Barel,69200,Vénissieux,69259,7392,
+PAR-69259-30417,Square Bela Bartok,30417,0,Rue Bela Bartok,69200,Vénissieux,69259,985,
+PAR-69259-30507,Angle Jodino / Roudil : est,30507,0,Angle des rues Jodino / Roudil,69200,Vénissieux,69259,3472,
+PAR-69259-30511,Chemin de Feyzin : MJC,30511,15,Chemin de Feyzin,69200,Vénissieux,69259,5389,
+PAR-69259-30708,Square Robert Braizaz,30708,18,Rue Victor Hugo,69200,Vénissieux,69259,1970,
+PAR-69259-30802,Square Général Pierre Robert de Saint Vincent,30802,23,Rue Romain Rolland,69200,Vénissieux,69259,3506,
+PAR-69259-30804,Square Lili Garel,30804,0,Angle des rues Picard/Tristan,69200,Vénissieux,69259,480,2021
+PAR-69259-40105,Avenue Jean Cagne : église et château d'eau,40105,0,des rues Jean Cagne / Président Edouard Herriot,69200,Vénissieux,69259,7147,
+PAR-69259-40301,Square Montchaud,40301,7,Avenue Jean Cagne,69200,Vénissieux,69259,6256,
+PAR-69259-40402,Square Ludovic Bonin,40402,0,Angle des rues Bruan / Lyvet,69200,Vénissieux,69259,1948,
+PAR-69259-40601,Rue Gabriel Faure : château d'eau,40601,0,Angle des rues Gabriel Faure /  Léo Lagrange,69200,Vénissieux,69259,12381,
+PAR-69259-40801,Terrain d'aventures : abords,40801,29,Rue Léo Lagrange,69200,Vénissieux,69259,11346,
+PAR-69259-40802,Terrain d'aventures,40802,27,Rue Léo Lagrange,69200,Vénissieux,69259,8718,
+PAR-69259-41002,Square Colette Besson,41002,2,Rue Colette,69200,Vénissieux,69259,2883,
+PAR-69259-41202,Square Prosper Alfaric,41202,0,Rue Prosper Alfaric,69200,Vénissieux,69259,2554,
+PAR-69259-41301,Square Gabriel Péri,41301,0,Rue Prosper Alfaric,69200,Vénissieux,69259,2934,
+PAR-69259-41401,Square Louis Aulagne,41401,0,Rue Louis Aulagne,69200,Vénissieux,69259,10190,
+PAR-69259-41501,Espace Ravel,41501,0,Entre rues Claude Debussy / Ravel,69200,Vénissieux,69259,11633,
+PAR-69259-41502,Square Abbé Pierre,41502,0,Square Abbé Pierre,69200,Vénissieux,69259,1996,
+PAR-69259-41503,Espace Debussy,41503,7,Rue Claude Debussy,69200,Vénissieux,69259,3572,
+PAR-69259-41504,Square du temps libre,41504,1,Rue Claude Debussy,69200,Vénissieux,69259,1338,
+PAR-69259-41605,Square Léo Lagrange,41605,35,Rue Léo Lagrange,69200,Vénissieux,69259,1727,
+PAR-69259-41801,Square Descartes,41801,0,Square Descartes / Rue Robespierre,69200,Vénissieux,69259,434,
+PAR-69259-50501,Mail piétonnier Armstrong,50501,0,Rue Charpak / Louis Semprun,69200,Vénissieux,69259,3016,
+PAR-69259-51002,Abords de la piscine Delaune,51002,0,Angle des rues 8 mai 1945 / J Cagne / Martyrs / Bourdarias,69200,Vénissieux,69259,17244,
+PAR-69259-51201,Parc des Minguettes,51201,0,Boulevard Lénine,69200,Vénissieux,69259,138792,
+PAR-69259-51202,Jardins suspendus Darnaise,51202,45,Boulevard Lénine,69200,Vénissieux,69259,2648,
+PAR-69259-60802,Centre du quartier Monmousseau,60802,12,Rue Gaston Monmousseau,69200,Vénissieux,69259,16714,
+PAR-69259-60903,Belvédère Pyramide,60903,8,Entre Rue Vladimir Komarov et avenue Jean Moulin,69200,Vénissieux,69259,29322,
+PAR-69259-61106,Square Cachin,61106,0,Angle avenue Marcel Cachin / Chemin de Feyzin,69200,Vénissieux,69259,1764,
+PAR-69266-185,Square du Champ de l'Orme,185,3,Rue du Champ de l'Orme,69100,Villeurbanne,69266,262,2007
+PAR-69259-61302,Rue komarov : centre Soyouz,61302,23,Rue Vladimir Komarov,69200,Vénissieux,69259,7510,
+PAR-69259-61401,Rue Cachin : le Bodey,61401,3,Avenue Marcel Cachin,69200,Vénissieux,69259,10596,
+PAR-69259-51501,Boulevard Lénine,51501,21,Boulevard Lénine,69200,Vénissieux,69259,1888,
+PAR-69091-002,Parc Normandie Niemen,2,,Quai Georges Lévy,69700,Givors,69091,16272,
+PAR-69091-001,Parc de la Maison du fleuve Rhône,1,,Place de la Liberté,69700,Givors,69091,6346,
+PAR-69388-08096,Parc Antoine Perrin,8096,130,Rue Guillaume Paradin,69008,Lyon,69388,8978,
+PAR-69091-017,Parc des Sports,17,,Esplanade Georges Lyvet,69700,Givors,69091,992,
+PAR-69091-003,Espace de l'Avenue Maréchal Leclerc,3,,Avenue Maréchal Leclerc,69700,Givors,69091,2973,
+PAR-69091-004,Parc Colonel Fabien,4,32,Rue Victor Hugo,69700,Givors,69091,1120,
+PAR-69091-005,Parc Maurice Thorez,5,,Promenade Maurice Thorez / Place des Tours,69700,Givors,69091,5937,
+PAR-69091-006,Square Etienne Abeille,6,,Rue Yves Farge / Rue Jean Ligonnet / Rue Joseph et Marie-Louise Liauthaud,69700,Givors,69091,1024,
+PAR-69091-007,Parc du Moulin,7,,Rue du Moulin / Impasse Platière,69700,Givors,69091,4799,
+PAR-69091-008,Parc de la gare de Givors-Canal,8,,Avenue du Onze Novembre 1918,69700,Givors,69091,2832,
+PAR-69091-009,Berges du Gier - Rive droite,9,,Quai Eugène Souchon,69700,Givors,69091,29390,
+PAR-69091-010,Quai de la navigation,10,,Quai de la navigation,69700,Givors,69091,824,
+PAR-69091-011,Parc de la Salle Georges Brassens,11,27,Avenue Anatole France,69700,Givors,69091,2863,
+PAR-69091-012,Ruines du Chateau Saint Gérald,12,,Chemin du Vieux Donjon,69700,Givors,69091,4253,
+PAR-69091-013,Berges du Gier - Rive gauche,13,,Rue du Moulin / Quai des Martyrs du 8 Février 1962,69700,Givors,69091,6529,
+PAR-69091-014,Parc urbain des Vernes,14,,Rue Romain Rolland / Allée Jean Moulin,69700,Givors,69091,28840,
+PAR-69091-015,Parc des Plaines - Juliot Curie,15,,Rue Yves Farge / Avenue Danielle Casanova,69700,Givors,69091,8125,
+PAR-69091-016,Square du 17 Octobre 1961,16,,Rue Jean Ligonnet / Rue Honoré Pététin,69700,Givors,69091,325,
+PAR-69381-51076,Square Saint Vincent,51076,16,Quai Saint Vincent,69001,Lyon,69381,869,
+PAR-69383-03123,Square Sainte-Marie Perrin,3123,12,Rue Etienne Dolet,69003,Lyon,69383,4633,
+PAR-69381-51212,Square Soeur Louise,51212,1,Place Soeur Louise,69001,Lyon,69381,436,
+PAR-69286-022,Jardin de la Buisière,22,1,Chemin de la Chapelle,69140,Rillieux-la-Pape,69286,1673,2017
+PAR-69286-023,Parc boisé Fort de Vancia,23,144-339,Chemin de beau regard,69140,Rillieux-la-Pape,69286,180855,1990
+PAR-69034-001,Ancienne route de Strasbourg,1,,Ancienne route de Strasbourg,69300,Caluire-et-Cuire,69034,1444,
+PAR-69034-004,Bois Elie Vignal,4,,Face au 310 avenue Elie Vignal,69300,Caluire-et-Cuire,69034,3323,
+PAR-69034-005,Butte Corbel,5,,Entre le 308 et le 310 avenue Elie Vignal,69300,Caluire-et-Cuire,69034,1625,
+PAR-69034-009,Esplanade Jacques Chirac,9,73ter,Rue Pasteur,69300,Caluire-et-Cuire,69034,3200,
+PAR-69034-042,Square Henri Dor,42,,Angle rue de Margnolles et rue Docteur Henri Dor,69300,Caluire-et-Cuire,69034,2544,
+PAR-69034-043,Square Jean Corbel,43,,Square Jean Corbel,69300,Caluire-et-Cuire,69034,11996,
+PAR-69034-044,Square Jean Pellet,44,216,chemin de Wette-Fays,69300,Caluire-et-Cuire,69034,671,
+PAR-69266-009,Jardin Pierre Baratin,9,45,Rue Pierre Baratin,69100,Villeurbanne,69266,471,2009
+PAR-69029-003,Parc de Parilly,3,36,Boulevard Emile Bollaert,69500,Bron,69029,178000,
+PAR-69040-002,Parc des Lutins,2,,Rue Jean-Marie Michel,69410,Champagne-au-Mont-d'Or,69040,600,
+PAR-69286-006,Parc du chemin du creux,6,470,Chemin du Creux,69140,Rillieux-la-Pape,69286,3716,1980
+PAR-69266-028,Square Dreieich,28,1,Petite Rue Pasteur,69100,Villeurbanne,69266,1413,1979
+PAR-69266-030,Esplanade Geneviève Anthonioz de Gaulle - Rue Robert Desnos,30,,Rue Francis de Pressensé,69100,Villeurbanne,69266,7226,1995
+PAR-69266-043,Square Hugues Limonti,43,174,Rue Léon Blum,69100,Villeurbanne,69266,211,1991
+PAR-69266-053,Parc de la Feyssine,53,17-21,Rue Rouget De l'Isle,69100,Villeurbanne,69266,415339,2002
+PAR-69266-182,Parc Elie Wiesel,182,20,Rue du 8 Mai 1945,69100,Villeurbanne,69266,4296,2019
+PAR-69286-005,Parc de crépieux,5,18,Allée des Cyprès,69140,Rillieux-la-Pape,69286,4345,1990
+PAR-69286-007,Parc de la montée de Castellane,7,52,Montée de Castellane,69140,Rillieux-la-Pape,69286,12841,2019
+PAR-69286-001,Parc Brosset,1,60,Rue Alexendre BERARD,69140,Rillieux-la-Pape,69286,27289,1970
+PAR-69204-003,Parc de la Villa Chapuis ,3,45,Avenue Georges Clemenceau,69230,Saint-Genis-Laval,69204,4894,
+PAR-69204-004,Parc du Fort de Côte Lorette,4,18,Rue de la Croix Rouge,69230,Saint-Genis-Laval,69204,60630,
+PAR-69266-189,Square Moghilev,189,2,Rue Richelieu,69100,Villeurbanne,69266,811,1991
+PAR-69266-192,Square Songieu,192,67,Rue Anatole France,69100,Villeurbanne,69266,238,
+PAR-69266-193,Promenade de la Gare,193,36,Avenue Paul Krüger,69100,Villeurbanne,69266,7198,2013
+PAR-69266-198,Esplanade Miriam Makeba,198,34,Rue de la Soie,69100,Villeurbanne,69266,3022,2019
+PAR-69266-200,Esplanade Sakharov,200,,Cours Emile Zola ,69100,Villeurbanne,69266,2423,1990
+PAR-69266-201,Jardin de l'Eygue,201,129,Rue Jean Voillot,69100,Villeurbanne,69266,1159,2003
+PAR-69266-202,Jardin de poche rue de la Convention,202,23,Rue de la Convention,69100,Villeurbanne,69266,80,2005
+PAR-69266-208,Square Georges Lévy,208,,Rue Anatole France,69100,Villeurbanne,69266,246,1978
+PAR-69266-279,Jardin Bonneterre,279,141,Cours Tolstoï,69100,Villeurbanne,69266,298,2008
+PAR-69266-370,Square Germaine Tillon,370,4,Rue Sabine Zlatin,69100,Villeurbanne,69266,2558,2012
+PAR-69383-03412,Jardin Jean-Baptiste Guillot,3412,72,Av Lacassagne,69003,Lyon,69383,315,
+PAR-69381-01279,Jardin Burdeau,1279,17,Rue Burdeau,69001,Lyon,69381,285,
+PAR-69383-03203,Jardin Commandant Aubertin,3203,2,Rue du Lac,69003,Lyon,69383,6535,
+PAR-69389-09052,Jardin de la Sauvegarde,9052,1,Av de la Sauvegarde,69009,Lyon,69389,11036,
+PAR-69389-09007,Jardin de la Vallonnère,9007,143,Av Sidoine Apollinaire,69009,Lyon,69389,6519,
+PAR-69385-05320,Jardin des Mûres,5320,19,Rue François Genin,69005,Lyon,69385,337,
+PAR-69387-07092,Jardin Jean-François Raclet,7092,34,Av Jean François Raclet,69007,Lyon,69387,639,
+PAR-69389-09129,Jardin Joannès Masset,9129,30,Av Joannès Masset,69009,Lyon,69389,1785,2004
+PAR-69383-03105,Jardin Lavoisier,3105,78,Bd Mariues Vivier Merle,69003,Lyon,69383,540,
+PAR-69256-005,Grand Parc Miribel Jonage,5,,Chemin de la Bletta,69120,Vaulx-en-Velin,69256,1896332,1968
+PAR-69256-010,Square Pierre Brossolette,10,,Square Pierre Brossolette,69120,Vaulx-en-Velin,69256,1549,
+PAR-69256-022,Place Roger Laurent,22,,Place Roger Laurent,69120,Vaulx-en-Velin,69256,2090,
+PAR-69389-09346,Jardin Philomène Rosan,9346,30,Rue Felix Manginy,69009,Lyon,69389,853,2019
+PAR-69382-52023,Jardin place Carnot,52023,1,Place Carnot,69002,Lyon,69382,26500,
+PAR-69385-05348,Jardin Elise Rivet,5348,40,Rue des Noyers,69005,Lyon,69385,6034,
+PAR-69385-55227,Jardin Francine Chollet,55227,5,Rue Cardinal Gerlier,69005,Lyon,69385,837,
+PAR-69381-51045,Jardin Francis Deswarte,51045,1,Place Bellevue,69001,Lyon,69381,3577,
+PAR-69385-55060,Jardin place César Geoffray,55060,1,Place César Geoffray,69005,Lyon,69385,5673,
+PAR-69386-56023,Jardin Place de l'Europe,56023,1,Place de l'Europe,69006,Lyon,69386,5564,
+PAR-69143-006,Jardin partagé Villeroy,6,,Place Villeroy,69250,Neuville-sur-Saône,69143,7,
+PAR-69143-007,Jardin partagé Curie,7,,Rue Curie,69250,Neuville-sur-Saône,69143,22,
+PAR-69143-008,Vallon des Torrières,8,,,69250,Neuville-sur-Saône,69143,2420000,
+PAR-69143-001,Parc d'ombreval,1,,Place de Verdun,69250,Neuville-sur-Saône,69143,16150,
+PAR-69143-002,City Stade du chemin de halage,2,,Route de Lyon,69250,Neuville-sur-Saône,69143,5000,
+PAR-69143-003,Parc de l' aventuriere,3,,Rue de Prandière,69250,Neuville-sur-Saône,69143,4600,
+PAR-69143-004,Jardin partagé de la Source,4,,Rue de Prandière,69250,Neuville-sur-Saône,69143,1430,
+PAR-69143-005,Jardin partagé Bertrand Vergnais,5,8,Rue Jacques,69250,Neuville-sur-Saône,69143,1140,2021
+PAR-69389-09093,Square Sédaillan,9093,24,Quai Paul Sédaillan,69009,Lyon,69389,1355,
+PAR-69383-03133,Parc Chambovet,3133,2,Rue Chambovet,69003,Lyon,69383,48256,
+PAR-69389-09313,Parc des Hautes Feuilles,9313,25,Rue de Montribloud,69009,Lyon,69389,8781,2006
+PAR-69386-56002,Parc du Brétillod,56002,1,Quai Charles De Gaulle,69006,Lyon,69386,80660,
+PAR-69382-52028,Square place des Célestins,52028,1,Place des Célestins,69002,Lyon,69382,2683,
+PAR-69389-09345,Jardin des Trembles,9345,1,Rue Felix Manginy,69009,Lyon,69389,5111,2018
+PAR-69389-09120,Parc de la Chapelle,9120,18,Rue de la Chapelle,69009,Lyon,69389,12601,
+PAR-69386-06016,Parc de la Tête d'Or,6016,1,Place Général Leclerc,69006,Lyon,69386,1028780,
+PAR-69387-07104,Parc des Berges Nord,7104,1,Av Leclerc,69007,Lyon,69387,29593,
+PAR-69256-018,Chemin de halage,18,,Chemin de Halage,69120,Vaulx-en-Velin,69256,153379,
+PAR-69383-03035,Parc professeur Paul Sisley,3035,8,Rue prof. Paul Sisley,69003,Lyon,69383,9982,
+PAR-69381-01040,Parc Sutter,1040,10,Rue de Vauzelles,69001,Lyon,69381,4930,
+PAR-69382-52201,Place Béatrice Artz,52201,52,Rue Hrant Dink,69002,Lyon,69382,2730,
+PAR-69388-08305,Promenade Juliette Guillot,8305,1,Promenade Juliette Guillot,69008,Lyon,69388,2998,
+PAR-69381-51213,Rives de Saône 1er,51213,1,Quai St Vincent,69001,Lyon,69381,12317,
+PAR-69388-08252,Square Beno¯t Bernard,8252,3,Rue Benoit Bernard,69008,Lyon,69388,1090,
+PAR-69388-08048,Square Picod,8048,39,Rue Paul Cazeneuve,69008,Lyon,69388,2471,
+PAR-69382-52022,Square Place Bellecour,52022,1,Place Bellecour,69002,Lyon,69382,7250,
+PAR-69388-58070,Square Berchet,58070,75,Rue Berchet,69008,Lyon,69388,2193,
+PAR-69384-04049,Square Bouvier,4049,44,Rue Deleuvre,69004,Lyon,69384,1913,
+PAR-69388-08063,Square Calmette,8063,204,Rue professeur Calmette,69008,Lyon,69388,498,
+PAR-69385-05114,Square Charcot,5114,130,Rue Commandant Charcot,69005,Lyon,69385,2485,
+PAR-69388-58012,Square de la Santé,58012,15,Bd Jean XXIII,69008,Lyon,69388,789,
+PAR-69388-08289,Square des Amériques,8289,80,Bd des Etats Unis,69008,Lyon,69388,995,
+PAR-69387-07115,Square du Béguin,7115,18,Rue du Béguin,69007,Lyon,69387,3428,
+PAR-69387-07148,Square du Commandant Ayasse,7148,9,Rue Commandant Ayasse,69007,Lyon,69387,635,
+PAR-69387-57186,Square du professeur Galtier,57186,85,Square du Professeur Galtier,69007,Lyon,69387,3190,
+PAR-69385-05177,Square Dupond-Ebrard,5177,28,Rue des Aqueducs,69005,Lyon,69385,1410,
+PAR-69388-58222,Square Julie Daubié,58222,25,Place Julie Daubié,69008,Lyon,69388,2287,
+PAR-69386-06097,Square Louis Blanc,6097,16,Rue Louis Blanc,69006,Lyon,69386,673,
+PAR-69384-04063,Square Ninon Vallin,4063,67,Rue Henri Gorjus,69004,Lyon,69384,2458,
+PAR-69383-03139,Square NoÙl Aymard,3139,51,Cours Eugenie,69003,Lyon,69383,1602,
+PAR-69389-09146,Square Nérard,9146,17,Rue Néard,69009,Lyon,69389,474,2011
+PAR-69388-58191,Square Thomas Blanchet,58191,95,Rue Thomas Blanchet,69008,Lyon,69388,1359,
+PAR-69388-08131,Square Varichon,8131,30,Av Paul Santy,69008,Lyon,69388,4434,
+PAR-69383-03364,Square Viala,3364,136,Av Lacassagne,69003,Lyon,69383,1021,
+PAR-69383-03049,Square Voltaire,3049,77,Rue Chaponnay,69003,Lyon,69383,660,
+PAR-69029-001,Parc du Fort de Bron,1,,Chemin Vieux,69500,Bron,69029,85000,1983
+PAR-69029-002,Parc du Grand Cèdre,2,,Impasse Callemard,69500,Bron,69029,8300,
+PAR-69191-002,Jardin de poche de la Chaux,2,,Angle rue la Chaux - Rue Jean-Baptiste Perret,69450,Saint-Cyr-au-Mont-d'Or,69191,640,
+PAR-69256-019,Espace Noëlle Grégoire,19,8,Rue Général Charles Delestraint,69120,Vaulx-en-Velin,69256,8271,2014
+PAR-69029-004,Parc des Essarts,4,,Rue des Essarts,69500,Bron,69029,88200,1937
+PAR-69029-005,Square Grimma,5,,Place du 11 novembre,69500,Bron,69029,2100,
+PAR-69029-006,Terrain d'aventures,6,,Angle Romain Rolland Pierre Brossolette,69500,Bron,69029,3500,
+PAR-69029-007,Square Caravelle,7,,Rue Suzanne Melk,69500,Bron,69029,3700,
+PAR-69029-008,Jardin des Genêts,8,10,Rue Daligand,69500,Bron,69029,1900,
+PAR-69191-001,Parc de la Mairie,1,13,Rue Jean et Catherine Reynier,69450,Saint-Cyr-au-Mont-d'Or,69191,7000,
+PAR-69194-001,Giverdy,1,8,Avenue Ampère,69370,Saint-Didier-au-Mont-d'Or,69194,23000,2009
+PAR-69194-002,Jardin de la Goye,2,1,Allée du 19 mars,69370,Saint-Didier-au-Mont-d'Or,69194,615,2019
+PAR-69283-001,Parc Charles Perrault,1,1,rue d'Italie,69780,Mions,69283,4320,
+PAR-69283-002,Parc Nelson Mandela,2,1,rue Mangetemps,69780,Mions,69283,2619,
+PAR-69283-003,Parc Marcel Moiroud,3,1,route de Toussieu,69780,Mions,69283,,
+PAR-69283-004,Parc Théodore Monod,4,3,avenue Charles de Gaulle,69780,Mions,69283,7575,
+PAR-69283-005,Square Agnès Neyret,5,1,avenue Jean Jaurès,69780,Mions,69283,1145,
+PAR-69383-03130,Jardin d'Essling,3130,23,Rue d'Essling,69003,Lyon,69383,355,
+PAR-69283-006,Square Horni Pocernice,6,1,rue de la République,69780,Mions,69283,1774,
+PAR-69283-007,Square Imbert Colomès,7,,,69780,Mions,69283,,
+PAR-69382-02246,Jardin Aquatique Jean Couty,2246,1,Quai Rambaud,69002,Lyon,69382,11888,
+PAR-69381-01215,Jardin aux Simples,1215,40,Rue de Crimée,69001,Lyon,69381,1300,
+PAR-69388-08263,Jardin Bargoin,8263,137,Rue Bataille,69008,Lyon,69388,1507,
+PAR-69389-09126,Jardin de l 'Ile Barbe,9126,1,Place Notre Dame,69009,Lyon,69389,11392,
+PAR-69385-05125,Jardin de la Basoche,5125,4,Rue de la Bombarde,69005,Lyon,69385,530,
+PAR-69381-01156,Jardin de la Butte,1156,20,Montée de la Butte,69001,Lyon,69381,1349,
+PAR-69386-56129,Berge du Rhône 6e,56129,15,Berge du Rhône 6e,69006,Lyon,69386,32435,
+PAR-69381-51080,Jardin Bodin Magneval,51080,13,Rue Bodin,69001,Lyon,69381,2665,
+PAR-69385-05134,Jardin Bâtonnier Valensio,5134,1,Place Bâtonnier Valensio,69005,Lyon,69385,3639,
+PAR-69386-06073,Jardin Cardinal Villot,6073,1,Place Cardinal Jean Villot,69006,Lyon,69386,2094,
+PAR-69387-57233,Berges du Rhône 7e,57233,1,Berge du Rhône 7e,69007,Lyon,69387,47796,
+PAR-69383-03358,Jardin Château sans souci,3358,3,Rue des Cadets de la France Libre,69003,Lyon,69383,1904,
+PAR-69386-06087,Jardin Cite Internationale,6087,80,Quai Charles de Gaulle,69006,Lyon,69386,149459,
+PAR-69384-04191,Jardin clos Carret,4191,38,Rue de Cuire,69004,Lyon,69384,3799,
+PAR-69381-01282,Jardin Clos Saint Benoit,1282,3,Rue Saint Benoit,69001,Lyon,69381,1336,
+PAR-69386-06055,Jardin d'Inkermann,6055,85,Rue d'Inkermann,69006,Lyon,69386,698,
+PAR-69381-51002,Esplanade du Gros Caillou,51002,180,Bd de la Croix Rousse,69001,Lyon,69381,12872,
+PAR-69383-03390,Esplanade Nelson Mandela,3390,128,Av Félix Faure,69003,Lyon,69383,27706,
+PAR-69383-03425,Jardin Abbé Boisard,3425,133,Cours Gambetta,69003,Lyon,69383,1707,
+PAR-69385-05110,Jardin André Malraux,5110,1,Place des Minimes,69005,Lyon,69385,3334,
+PAR-69382-52050,Jardin Confluence,52050,100,Quai Perrache,69002,Lyon,69382,40508,
+PAR-69381-01124,Jardin Croix Paquet,1124,1,Place Croix Paquet,69001,Lyon,69381,7780,
+PAR-69381-01084,Jardin Dalle Rozier,1084,4,Rue Rozier,69001,Lyon,69381,532,
+PAR-69388-08099,Jardin du Combattant d'Indochine,8099,61,Bd Ambroise Paré,69008,Lyon,69388,4985,
+PAR-69389-09290,Jardin de la Créssonnière,9290,48,Av Sidoine Apollinaire,69009,Lyon,69389,33287,1997
+PAR-69381-01089,Jardin de la Grande Côte,1089,33,Montée de la Grande Côte,69001,Lyon,69381,9156,
+PAR-69388-08254,Jardin de la Laïcité,8254,123,Rue Marius Berliet,69008,Lyon,69388,1501,
+PAR-69388-08102,Jardin de Préssensé,8102,43,Av de Préssensé,69008,Lyon,69388,9900,
+PAR-69386-06063,Jardin Garibaldi Europe,6063,128,Rue Garibaldi,69006,Lyon,69386,6306,
+PAR-69382-02245,Jardin d'Erevan,2245,3,Allée André Mure,69002,Lyon,69382,9085,
+PAR-69389-59269,Jardin des 2 rivières,59269,75,Rue de Saint Cyr,69009,Lyon,69389,1899,2000
+PAR-69389-09062,Jardin des trois gouttes,9062,0,Place Maurice Bariod,69009,Lyon,69389,5021,
+PAR-69386-56100,Jardin des 3 Renard,56100,71,Rue Bossuet,69006,Lyon,69386,2221,
+PAR-69387-07307,Jardin des Abruzzes,7307,34,Rue Clément Marot,69007,Lyon,69387,2073,
+PAR-69386-06050,Jardin des Charmettes,6050,119,Rue des Charmettes,69006,Lyon,69386,592,
+PAR-69381-51148,Jardin des Plantes,51148,1,Rue Lucien Sportisse,69001,Lyon,69381,12087,
+PAR-69386-06135,Jardin des Poètes,6135,30,Quai Charles de Gaulle,69006,Lyon,69386,9301,
+PAR-69389-09088,Jardin des Deux Amants,9088,17,Rue des Deux Amants,69009,Lyon,69389,4191,
+PAR-69034-049,Square Polnard,49,,Face au 29 rue de Verdun,69300,Caluire-et-Cuire,69034,873,
+PAR-69389-59270,Jardin des saules,59270,1,Rue Antonin Laborde,69009,Lyon,69389,7331,2009
+PAR-69381-01078,Jardin des Chartreux,1078,36,Cours Général Giraud,69001,Lyon,69381,18804,
+PAR-69385-05145,Jardin des Curiositées,5145,1,Place Abbé Larue,69005,Lyon,69385,16254,
+PAR-69389-59055,Jardin des Marronniers,59055,1,Av du Plateau,69009,Lyon,69389,4229,1970
+PAR-69385-05085,Jardin des pivoines,5085,1,Place du 158e Régiment d'Infanterie,69005,Lyon,69385,26784,
+PAR-69385-05198,Jardin docteur Schweitzer,5198,1,Place du Docteur Schweitzer,69005,Lyon,69385,8539,
+PAR-69385-05047,Jardin du Belvédère,5047,49,Montée du Chemin Neuf,69005,Lyon,69385,1096,
+PAR-69385-05154,Jardin du Boeuf,5154,15,Rue du Boeuf,69005,Lyon,69385,571,
+PAR-69383-03053,Jardin du château,3053,1,Place du château,69003,Lyon,69383,4466,
+PAR-69388-08062,Jardin du Château Lumière,8062,25,Rue du Premier Film,69008,Lyon,69388,5428,
+PAR-69388-08018,Jardin du corps éxpéditionnaire Français en Italie,8018,12,Av Jean Mermoz,69008,Lyon,69388,12192,
+PAR-69387-07017,Jardin du cuir,7017,15,Av Tony Garnier,69007,Lyon,69387,2543,
+PAR-69388-08210,Jardin du docteur René Biot,8210,18,Rue Léo et Maurice Trouilhet,69008,Lyon,69388,1959,
+PAR-69388-08284,Jardin Viviani,8284,170,Bd des Etats Unis,69008,Lyon,69388,1287,
+PAR-69383-03341,Jardin du nouveau palais de justice,3341,208,Rue Duguesclin,69003,Lyon,69383,3011,
+PAR-69381-01013,Jardin du palais Saint Pierre,1013,20,Place des Terreaux,69001,Lyon,69381,7656,
+PAR-69388-08138,Jardin du Presbytère,8138,7,Rue du Presbytère,69008,Lyon,69388,1330,
+PAR-69386-56004,Jardin Général Brosset,56004,1,Av Général Brosset,69006,Lyon,69386,6886,
+PAR-69384-04208,Jardin Guylaine Gouzou-Testud,4208,3,Rue d'Ivry,69004,Lyon,69384,273,
+PAR-69382-52197,Jardin Hrant Dink,52197,57,Rue Hrant Dink,69002,Lyon,69382,2533,
+PAR-69385-55026,Jardin Jean Choux,55026,1,Place Abbé Larue,69005,Lyon,69385,1639,
+PAR-69387-07049,Jardin Saint Michel,7049,30,Grande Rue de la Guillotière,69007,Lyon,69387,3416,
+PAR-69389-09185,Jardin Jean Fournier,9185,10,Rue Jean Fournier,69009,Lyon,69389,2274,1965
+PAR-69387-07134,Square Ilot de l'effort,7134,98,Rue Jean Vallier,69007,Lyon,69387,4881,
+PAR-69388-08262,Jardin Lily Eigeldinger,8262,20,Rue Paul Cazeneuve,69008,Lyon,69388,346,
+PAR-69388-08060,Jardin Marie Ducher,8060,118,Av Paul Santy,69008,Lyon,69388,2214,
+PAR-69388-08085,Square Michaud,8085,165,Av Général Frère,69008,Lyon,69388,2942,
+PAR-69385-05283,Jardin du Rosaire,5283,40,Montée St Barthélémy,69005,Lyon,69385,38796,
+PAR-69388-08040,Jardin Dumont,8040,36,Rue Antoine Dumont,69008,Lyon,69388,9429,
+PAR-69382-52160,Square Janmot,52160,1,Square Janmot,69002,Lyon,69382,676,
+PAR-69384-04061,Jardin d'Ypres,4061,57,Rue d'Ypres,69004,Lyon,69384,10406,
+PAR-69382-02244,Jardin Gabriel Rosset,2244,63,Rue Hrant Dink,69002,Lyon,69382,5384,
+PAR-69387-07105,Jardin Garibaldi Berthelot,7105,10,Av berthelot,69007,Lyon,69387,2037,
+PAR-69389-09336,Jardin Marietton,9336,30,Rue Marietton,69009,Lyon,69389,2601,1976
+PAR-69388-08197,Jardin Marius Berliet,8197,73,Rue Marius Berliet,69008,Lyon,69388,372,
+PAR-69387-07275,Jardin Mazagran,7275,1,Rue Mazagran,69007,Lyon,69387,4604,
+PAR-69381-01045,Jardin Morel,1045,8,Place Lieutenant Morel,69001,Lyon,69381,1176,
+PAR-69385-05266,Jardin Théâtre Romain Fourvière,5266,10,Rue de l'Antiquaille,69005,Lyon,69385,50321,
+PAR-69389-09142,Jardin Mur du Roc,9142,40,Rue Hector Berlioz,69009,Lyon,69389,8828,1980
+PAR-69385-05128,Jardin Pierre Thévenin,5128,1,Place du 158e Régiment d'Infanterie,69005,Lyon,69385,5907,
+PAR-69382-52021,Jardin place Antonin Poncet,52021,1,Place Antonin Poncet,69002,Lyon,69382,11800,
+PAR-69383-53302,Jardin Place Charles de Gaulle,53302,1,Place Charles de Gaulle,69003,Lyon,69383,6204,
+PAR-69388-08067,Jardin Saint Nestor,8067,1,Rue Saint Mathieu,69008,Lyon,69388,3419,
+PAR-69034-050,Square Professeur Roux,50,,Angle rue Pasteur/rue Professeur Roux,69300,Caluire-et-Cuire,69034,321,
+PAR-69382-52163,Jardin place de l'Hippodrome,52163,1,Place de l'Hippodrome,69002,Lyon,69382,10539,
+PAR-69388-58050,Jardin place du 8 Mai 1945,58050,1,Place du 8 Mai 1945,69008,Lyon,69388,21073,
+PAR-69383-53061,Square place de la Ferrandière,53061,1,Place de la Ferrandière,69003,Lyon,69383,9423,
+PAR-69382-52175,Jardin place Général Delfosse,52175,1,Place Général Delfosse,69002,Lyon,69382,12992,
+PAR-69388-58056,Jardin promenade Léa et Napoléon Bullukian,58056,200,Av des Frères Lumiére,69008,Lyon,69388,2171,
+PAR-69386-56027,Jardin place Maréchal Lyautey,56027,1,Place Maréchal Lyautey,69006,Lyon,69386,20484,
+PAR-69385-55215,Jardin Place Pierre Bossan,55215,1,Place Pierre Bossan,69005,Lyon,69385,1949,
+PAR-69385-05160,Jardin Père François Varillon,5160,4,Rue Cardinal Gerlier,69005,Lyon,69385,5113,
+PAR-69388-08177,Jardin René et Madeleine Caille,8177,25,Rue Ludovic Arrachart,69008,Lyon,69388,3796,
+PAR-69384-04115,Jardin Rosa Mir,4115,87,Grande Rue de la Croix Rousse,69004,Lyon,69384,529,
+PAR-69389-09035,Jardin Secret,9035,15,Grande Rue de St Rambert,69009,Lyon,69389,4419,
+PAR-69383-03415,Jardin Simone Prelle,3415,72,rue Chaponnay,69003,Lyon,69383,1231,
+PAR-69383-03164,Jardin Soeur Jeanne Jugan,3164,27,Rue Maurice Flandin,69003,Lyon,69383,8847,
+PAR-69388-58234,Jardin Suzanne Valadon,58234,1,Rue du Cmdt Caroline Aigle,69008,Lyon,69388,5216,
+PAR-69385-05124,Jardin Taurobole,5124,11,Rue des Maccabées,69005,Lyon,69385,3818,
+PAR-69383-53062,Square Place de la Reconnaissance,53062,8,Place de la Reconnaisance,69003,Lyon,69383,1953,
+PAR-69382-02056,Jardin terrasse Perrache,2056,22,Cours de Verdun,69002,Lyon,69382,12737,
+PAR-69386-56087,Jardin Thiers,56087,1,Rue Michel Rambaud,69006,Lyon,69386,3716,
+PAR-69383-03388,Jardin Zenith,3388,57,Rue Feuillat,69003,Lyon,69383,8731,
+PAR-69384-04183,Parc Chazière,4183,61,Rue Chazière,69004,Lyon,69384,14336,
+PAR-69388-08258,Parc Clos Layat,8258,260,Route de Vienne,69008,Lyon,69388,99809,
+PAR-69388-08086,Parc Léon Pfeffer,8086,7,Rue Général Gouraud,69008,Lyon,69388,1523,
+PAR-69389-09041,Parc de Balmont,9041,18,Rue des Contrebandiers,69009,Lyon,69389,43620,
+PAR-69385-05074,Parc des Murières,5074,60,Rue Joliot Curie,69005,Lyon,69385,13781,
+PAR-69386-06095,Square des Droits de l'Enfant,6095,37,Bd des Brotteaux,69006,Lyon,69386,2155,
+PAR-69389-09125,Parc de Grand Champ,9125,1,Rue Hector Berlioz,69009,Lyon,69389,19625,
+PAR-69389-09305,Parc Michèle Mollard,9305,6,Rue Cottin,69009,Lyon,69389,2154,2001
+PAR-69034-035,Square des Petits Bois,35,,Angle avenue Alexander Fleming et avenue Elie Vignal,69300,Caluire-et-Cuire,69034,11353,
+PAR-69385-05079,Parc de Champvert,5079,39,Rue de Champvert,69005,Lyon,69385,12035,
+PAR-69388-08091,Square Jean de Torcy,8091,59,Rue Longefer,69008,Lyon,69388,3224,
+PAR-69387-07221,Parc de Gerland,7221,24,Allée Pierre de Coubertin,69007,Lyon,69387,209654,
+PAR-69381-01043,Square Carquillat,1043,37,Rue Pierre Dupont,69001,Lyon,69381,1429,
+PAR-69387-07113,Square Chevreul,7113,68,Rue Chevreul,69007,Lyon,69387,2716,
+PAR-69384-04040,Parc de la Cerisaie,4040,25,Rue Chazière,69004,Lyon,69384,45862,
+PAR-69385-05117,Parc de la Garde,5117,2,Rue de la Garde,69005,Lyon,69385,41050,
+PAR-69389-59108,Square de Beer Sheva,59108,15,Rue de Beer Sheva,69009,Lyon,69389,3035,2008
+PAR-69385-05066,Parc de la mairie du 5e,5066,2,Rue Docteur Edmond Locard,69005,Lyon,69385,24545,
+PAR-69383-03366,Square Combet Descombes,3366,89,Rue Antoine Charial,69003,Lyon,69383,213,
+PAR-69389-59124,Square Compas Raison,59124,1,Av du Plateau,69009,Lyon,69389,3750,1997
+PAR-69387-07283,Square Cristal Plaza,7283,198,Av Jean Jaurès,69007,Lyon,69387,4541,
+PAR-69383-03034,Parc Georges Bazin,3034,16,Av des Acacias,69003,Lyon,69383,30921,
+PAR-69383-03335,Parc Joseph Kaplan,3335,106,Allée du Parc,69003,Lyon,69383,10114,
+PAR-69034-036,Square des Rondins,36,,Angle avenue Elie Vignal et rue de Margnolles,69300,Caluire-et-Cuire,69034,4725,
+PAR-69384-04162,Square de la Boucle,4162,28,Montée de la Boucle,69004,Lyon,69384,1039,
+PAR-69389-09161,Square de la Duchère,9161,10,Bd de la Duchère,69009,Lyon,69389,3281,1966
+PAR-69382-52032,Square place Gensoul,52032,1,Place Gensoul,69002,Lyon,69382,1825,
+PAR-69385-05342,Parc de la Passerelle,5342,77,Av Barthélémy Buyer,69005,Lyon,69385,10411,
+PAR-69385-05056,Parc de la Visitation,5056,23,Rue Roger Radisson,69005,Lyon,69385,22320,
+PAR-69389-09171,Parc de Montpellas haut,9171,70,Ch de Montpellas,69009,Lyon,69389,6358,
+PAR-69383-03127,Square d'Aubigny,3127,16,Rue d'Aubigny,69003,Lyon,69383,718,
+PAR-69389-09156,Parc du Vallon,9156,12,Rue du château de la Duchère,69009,Lyon,69389,114995,1962
+PAR-69384-04041,Parc Francis Popy,4041,33,Rue Henri Gorjus,69004,Lyon,69384,17430,
+PAR-69389-09045,Parc Montel,9045,39,Rue du Bourbonnais,69009,Lyon,69389,15107,
+PAR-69389-09038,Parc Montpellas bas,9038,1,Place Henri Barbusse,69009,Lyon,69389,16502,
+PAR-69387-07277,Parc Sergent Blandan,7277,37,Rue du Repos,69007,Lyon,69387,166949,
+PAR-69384-04200,Petit Parc Serin,4200,35,Quai Joseph Gillet,69004,Lyon,69384,2713,
+PAR-69387-57029,Place des Docteurs Mérieux,57029,1,Place des doc Mérieux,69007,Lyon,69387,20434,
+PAR-69034-037,Square Edouard Herriot,37,,Face au 5 rue Auguste Lumière,69300,Caluire-et-Cuire,69034,490,
+PAR-69385-55217,Promenade de la Sarra,55217,15,Promenade de la Sarra,69005,Lyon,69385,10526,
+PAR-69388-58224,Square de la Fraternité,58224,25,Rue de  la Fraternité,69008,Lyon,69388,1885,
+PAR-69383-53184,Square de l'Est,53184,23,Rue Feuillat,69003,Lyon,69383,341,
+PAR-69387-57222,Square de Barcelone,57222,25,Rue Maurice Carraz,69007,Lyon,69387,3408,
+PAR-69382-52169,Rives de Saône 2e,52169,1,Quai des Célestins,69002,Lyon,69382,65720,
+PAR-69385-09003,Square de l'observance,9003,54,Montée de l'Observance,69005,Lyon,69385,1324,
+PAR-69386-06049,Square de l'Ossuaire,6049,147,Rue de Créqui,69006,Lyon,69386,2642,
+PAR-69384-54150,Rives de Saône 4e,54150,1,Quai Joseph Gillet,69004,Lyon,69384,28850,
+PAR-69388-58219,Square Adolphe Lafont,58219,25,Allée Adolphe Lafont,69008,Lyon,69388,3131,
+PAR-69389-59241,Square André Canard,59241,1,Quai de la Gare d'Eau,69009,Lyon,69389,3789,2014
+PAR-69389-09014,Square Averroès,9014,0,Rue Marcel Cerdan,69009,Lyon,69389,2087,
+PAR-69383-53315,Square Bahadourian,53315,1,Place Djibraèl Bahadourian,69003,Lyon,69383,6282,
+PAR-69389-09154,Square de la Foucade,9154,1,Montée de Balmont,69009,Lyon,69389,6100,1968
+PAR-69381-01274,Square de Thou,1274,3,Rue de Thou,69001,Lyon,69381,243,
+PAR-69381-01093,Square de Villemanzy,1093,21,Montée Saint Sébastien,69001,Lyon,69381,5454,
+PAR-69387-07260,Square Debourg,7260,46,Av Debourg,69007,Lyon,69387,4978,
+PAR-69384-04068,Square Dejean-Frangin,4068,118,Bd de la Croix Rousse,69004,Lyon,69384,1200,
+PAR-69383-03190,Square Delestraint,3190,8,Quai Victor Augagneur,69003,Lyon,69383,3536,
+PAR-69387-07061,Square Deperet,7061,7,Rue de l'Université,69007,Lyon,69387,1244,
+PAR-69389-09252,Square des 400,9252,1,Rue Robert Wolville,69009,Lyon,69389,7795,1994
+PAR-69387-57171,Square des 44 enfants d'Izieu,57171,75,Rue Raoul Servant,69007,Lyon,69387,680,
+PAR-69385-55058,Square place Beno¯t Crépu,55058,1,Place Benoit Crépu,69005,Lyon,69385,2778,
+PAR-69385-55123,Square du Rempart,55123,8,Rue de Trion,69005,Lyon,69385,270,
+PAR-69385-05123,Square des Estrées,5123,4,Rue des Estrées,69005,Lyon,69385,2063,
+PAR-69381-01212,Square des Pierres Plantées,1212,10,Rue Calliet,69001,Lyon,69381,1745,
+PAR-69385-55138,Square des Quatre Colonnes,55138,15,Rue des Quatre Colonne,69005,Lyon,69385,357,
+PAR-69383-53159,Square Desaix,53159,6,Rue Desaix,69003,Lyon,69383,2326,
+PAR-69383-03431,Square Diday,3431,1,Rue Dr Paul Diday,69003,Lyon,69383,478,
+PAR-69388-08065,Square du 14ème Zouave,8065,15,Rue Antoine Fonlupt,69008,Lyon,69388,4405,
+PAR-69387-57114,Square du Brigadier Voituret,57114,15,Rue du brigadier Voituret,69007,Lyon,69387,700,
+PAR-69389-59149,Square du Béal,59149,3,Rue du Béal,69009,Lyon,69389,661,2010
+PAR-69389-09058,Square du C.S. Champvert,9058,204,Av Barthélemy Buyer,69009,Lyon,69389,4954,
+PAR-69384-54037,Square place Flammarion,54037,1,Place Camille Flammarion,69004,Lyon,69384,2750,
+PAR-69386-06109,Square du Capitaine Billon,6109,1,Bd des Belges,69006,Lyon,69386,1232,
+PAR-69389-09096,Square du Vergoin,9096,1,Rue Charles Porcher,69009,Lyon,69389,5126,
+PAR-69383-53180,Square Edison,53180,196,Rue Edison,69003,Lyon,69383,643,
+PAR-69383-53318,Square Eugène Varlin,53318,104,Rue Moncey,69003,Lyon,69383,2209,
+PAR-69383-03094,Square Eugénie,3094,14,Cours Eugenie,69003,Lyon,69383,546,
+PAR-69383-03069,Square Farrère,3069,74,Rue Claude Farrère,69003,Lyon,69383,509,
+PAR-69386-56068,Square Félix Jacquier,56068,5,Rue Félix Jacquier,69006,Lyon,69386,253,
+PAR-69384-54147,Square Georges Mattelon,54147,1,Place Georges Mattelon,69004,Lyon,69384,991,
+PAR-69387-07280,Square Girard,7280,80,Rue lieutenant Colonel Girard,69007,Lyon,69387,1213,
+PAR-69386-06161,Square Général Marcel Descour,6161,40,Rue Germain,69006,Lyon,69386,1495,
+PAR-69384-04048,Square Gustave Auguste Ferrié,4048,58,Rue Hénon,69004,Lyon,69384,2789,
+PAR-69388-08287,Square Henri Pensier,8287,8,Rue Henri Pensier,69008,Lyon,69388,222,
+PAR-69387-57116,Square du Repos,57116,15,Rue du Repos,69007,Lyon,69387,1036,
+PAR-69383-03097,Square du Sacré Coeur,3097,105,Rue Baraban,69003,Lyon,69383,4830,
+PAR-69388-08282,Square du Transvaal,8282,1,Rue Auguste Pinton,69008,Lyon,69388,1211,
+PAR-69383-53335,Square Gandolière,53335,2,Rue Gandolière,69003,Lyon,69383,475,
+PAR-69383-53289,Square Jean Reverzy,53289,1,Square Jen Reverzy,69003,Lyon,69383,470,
+PAR-69385-05141,Square Jean Tricou,5141,34,Rue Commandant Charcot,69005,Lyon,69385,3199,
+PAR-69387-07189,Square Jules Guesde,7189,140,Rue Sébastien Gryphe,69007,Lyon,69387,1720,
+PAR-69383-03040,Square Jules Verne,3040,7,Rue Jules Verne,69003,Lyon,69383,16755,
+PAR-69386-56113,Square Jérome Bererd,56113,15,Square Jérome Bererd,69006,Lyon,69386,946,
+PAR-69385-55075,Square place François Bertras,55075,1,Place François Bertras,69005,Lyon,69385,943,
+PAR-69383-03167,Square Roger Bréchan,3167,2,Passage Roger Bréchan,69003,Lyon,69383,730,
+PAR-69383-53290,Square Jussieu,53290,1,Square Jussieu,69003,Lyon,69383,2916,
+PAR-69387-57212,Square Marie Madeleine Fourcade,57212,1,Rue Marie Madeleine Fourcade,69007,Lyon,69387,3770,
+PAR-69383-53178,Square Moncey-Dunoir,53178,51,Rue Dunoir,69003,Lyon,69383,1562,
+PAR-69387-07261,Square Monod,7261,65,Allée d'Italie,69007,Lyon,69387,2856,
+PAR-69387-07101,Square Monseigneur Alfred Ancel,7101,14,Rue Prosper Chappet,69007,Lyon,69387,1968,
+PAR-69389-09118,Square Morlot,9118,60,Rue Pierre Baizet,69009,Lyon,69389,1688,
+PAR-69389-09130,Square Mouriquand,9130,30,Square Mouriquand,69009,Lyon,69389,6090,1966
+PAR-69383-03270,Square Rebatel,3270,26,Rue Docteur Rebatel,69003,Lyon,69383,2029,
+PAR-69034-019,Place Gouailhardou,19,,Place Jean Gouailhardou,69300,Caluire-et-Cuire,69034,2270,
+PAR-69387-57134,Square Nadaud Leclerc,57134,15,Av Leclerc,69007,Lyon,69387,1480,
+PAR-69383-53332,Square Pierre Pelloux,53332,285,Rue Duguesclin,69003,Lyon,69383,1477,
+PAR-69388-08032,Square Saint Hippolyte,8032,10,Rue Saint Hippolyte,69008,Lyon,69388,7474,
+PAR-69383-53294,Square place Aristide Briand,53294,1,Place Aristide Briand,69003,Lyon,69383,7416,
+PAR-69383-53056,Square place Bir Hakeim,53056,1,Place Bir hakeim,69003,Lyon,69383,6734,
+PAR-69381-51059,Square place Chazette,51059,1,Place Louis Chazette,69001,Lyon,69381,7358,
+PAR-69382-52026,Square place de la Bourse,52026,1,Place de la Bourse,69002,Lyon,69382,2155,
+PAR-69385-55064,Square place de la Commanderie,55064,1,Place de la Commanderie,69005,Lyon,69385,787,
+PAR-69387-57205,Square place de Montréal,57205,5,Place de Montréal,69007,Lyon,69387,3816,
+PAR-69387-07259,Square René Bayet,7259,20,Rue Jaboulay,69007,Lyon,69387,563,
+PAR-69383-03156,Square René Clair,3156,12,Rue Saint Théodore,69003,Lyon,69383,2885,
+PAR-69388-08029,Square Renée Mayoud Visconti,8029,101,Bd des Etats-Unis,69008,Lyon,69388,2796,
+PAR-69034-034,Square des droits de l'enfant,34,,Entre le 146 et 250 avenue Jean Monnet,69300,Caluire-et-Cuire,69034,716,
+PAR-69034-022,Place Laurent Bonnevay,22,,Place Laurent Bonnevay,69300,Caluire-et-Cuire,69034,4434,
+PAR-69387-57197,Square place de Stalingrad,57197,1,Place Stalingrad,69007,Lyon,69387,2918,
+PAR-69381-51052,Square place des Chartreux,51052,1,Place des Chartreux,69001,Lyon,69381,710,
+PAR-69034-038,Square Elie Vignal,38,,Square Elie Vignal,69300,Caluire-et-Cuire,69034,672,
+PAR-69386-56022,Square place d'Helvetie,56022,1,Place d'Helvètie,69006,Lyon,69386,2183,
+PAR-69386-56024,Square place Edgard Quinet,56024,1,Place Edgard Quinet,69006,Lyon,69386,5021,
+PAR-69384-54136,Square place Emile Chanel,54136,1,Place Emile Chanel,69004,Lyon,69384,1472,
+PAR-69384-54137,Square place Millaud,54137,1,Place Edouard Millaud,69004,Lyon,69384,1921,
+PAR-69387-57038,Square place Ollier,57038,1,Place Ollier,69007,Lyon,69387,2646,
+PAR-69383-03142,Square Saint Maximin,3142,58,Rue Saint Maximin,69003,Lyon,69383,968,
+PAR-69034-039,Square Emile Thiévon,39,,Angle chemin de Vassieux et chemin de Crépieux,69300,Caluire-et-Cuire,69034,366,
+PAR-69386-56028,Square place Puvis de Chavannes,56028,1,Place Puvis de Chavannes,69006,Lyon,69386,8746,
+PAR-69387-57039,Square place Raspail,57039,1,Place Raspail,69007,Lyon,69387,6851,
+PAR-69034-020,Place Gutenberg,20,,Place Gutenberg,69300,Caluire-et-Cuire,69034,7852,
+PAR-69383-53074,Square place Sainte Anne,53074,1,Place Sainte Anne,69003,Lyon,69383,2064,
+PAR-69388-08042,Square professeur Morat,8042,30,Rue prof. Morat,69008,Lyon,69388,5190,
+PAR-69385-05139,Square Père Chaillet,5139,22,Av du Point du Jour,69005,Lyon,69385,909,
+PAR-69381-01054,Square Roger Duplat,1054,27,Rue Pierre Dupont,69001,Lyon,69381,15747,
+PAR-69389-09335,Square Roquette,9335,5,Rue Roquette,69009,Lyon,69389,5346,2009
+PAR-69389-09102,Square Roquette Jayr,9102,21,Rue Roquette,69009,Lyon,69389,415,
+PAR-69384-04057,Square Saint Eucher,4057,68,Rue Eugène pons,69004,Lyon,69384,391,
+PAR-69034-040,Square Général Brosset,40,,Square Général Brosset,69300,Caluire-et-Cuire,69034,1881,
+PAR-69389-09159,Square Sakharov Captiva,9159,308,Av Andrei Sakharov,69009,Lyon,69389,4001,1966
+PAR-69382-52168,Square Widor,52168,1,Place Charles et Marie Widor,69002,Lyon,69382,607,
+PAR-69034-041,Square Gilberte et Jean Nallit,41,49,avenue Général de Gaulle,69300,Caluire-et-Cuire,69034,1676,2023
+PAR-69385-05129,Voie verte,5129,89,Av Barthélemy Buyer,69005,Lyon,69385,43395,
+PAR-69034-002,Berges de Saône,2,2 - 61,Quai Clémenceau,69300,Caluire-et-Cuire,69034,25848,
+PAR-69034-003,Berges du Rhône,3,,Du Pont Raymond Poincaré  au Chemin du Ravin,69300,Caluire-et-Cuire,69034,127056,
+PAR-69034-021,Place Jules Ferry,21,,Place Jules Ferry,69300,Caluire-et-Cuire,69034,916,
+PAR-69034-006,Chemin du Belvédère,6,,16 rue Abbé Lemire /  86 rue de Margnolles,69300,Caluire-et-Cuire,69034,561,
+PAR-69034-033,Square des AFN,33,,Entre rue des Combattants d'AFN et la voie verte,69300,Caluire-et-Cuire,69034,2845,
+PAR-69034-007,Chemin du Bois des Frères,7,,Place du Docteur Dugoujon (au fond de l 'esplanade Bernard Roger Dalbert),69300,Caluire-et-Cuire,69034,788,
+PAR-69034-008,Esplanade Bernard Roger-Dalbert,8,,Place du Docteur Dugoujon,69300,Caluire-et-Cuire,69034,13543,
+PAR-69034-010,Fort de Montessuy,10,,Allée du Parc de la Jeunesse,69300,Caluire-et-Cuire,69034,50853,
+PAR-69034-011,Jardin de la Maison du Garde Barrière,11,,Face au 26bis chemin de Crépieux,69300,Caluire-et-Cuire,69034,618,
+PAR-69034-012,Jardin des Voûtes,12,,Entre le 34 et le 44 grande rue de Saint Clair,69300,Caluire-et-Cuire,69034,616,
+PAR-69034-014,Parc de l'Usine des Eaux,14,107,Grande Rue de Saint Clair,69300,Caluire-et-Cuire,69034,6426,
+PAR-69034-015,Parc des Berges,15,,De la Passerelle de la Paix au pont Raymond Poincaré,69300,Caluire-et-Cuire,69034,52547,
+PAR-69034-016,Place Bellevue,16,,Place Bellevue,69300,Caluire-et-Cuire,69034,1375,
+PAR-69034-017,Place Christophe Colomb,17,,Place Christophe Colomb,69300,Caluire-et-Cuire,69034,1327,
+PAR-69034-018,Place de Cuire le Bas,18,,Place de Cuire le Bas,69300,Caluire-et-Cuire,69034,720,
+PAR-69034-023,Place Louis Braille,23,,Place Louis Braille,69300,Caluire-et-Cuire,69034,1137,
+PAR-69034-024,Place Valentin Haüy,24,,Place Valentin Haüy,69300,Caluire-et-Cuire,69034,2725,
+PAR-69034-025,Place Victor Basch,25,,Place Victor Basch,69300,Caluire-et-Cuire,69034,909,
+PAR-69034-026,Promenade Quai Bellevue,26,,Du Pont Winston Churchill au Parc des Berges,69300,Caluire-et-Cuire,69034,16234,
+PAR-69034-027,Roseraie de Montessuy,27,,Face à la place Louis Braille,69300,Caluire-et-Cuire,69034,3850,
+PAR-69034-028,Roseraie de Saint Clair,28,,Dans le Parc des Berges,69300,Caluire-et-Cuire,69034,21724,
+PAR-69034-029,Sentier du Bois de la Caille,29,6 - 8,rue du Bois de la Caille,69300,Caluire-et-Cuire,69034,934,
+PAR-69034-030,Square André Lassagne,30,25,Avenue du Général de Gaulle,69300,Caluire-et-Cuire,69034,8517,
+PAR-69034-031,Square Butte aux Indiens,31,,Allée Turba Choux,69300,Caluire-et-Cuire,69034,13681,
+PAR-69034-032,Square Charles Péguy,32,,Rue Charles Péguy,69300,Caluire-et-Cuire,69034,755,
+PAR-69034-045,Square Joseph Basse,45,36,rue Pierre Bourgeois,69300,Caluire-et-Cuire,69034,454,
+PAR-69034-046,Square Louis Dufour,46,14,avenue Louis Dufour,69300,Caluire-et-Cuire,69034,2742,
+PAR-69034-047,Square Mick Micheyl,47,,Angle rue Pasteur et rue de Montessuy,69300,Caluire-et-Cuire,69034,1092,
+PAR-69034-048,Square Niel,48,,Avant le 6 rue Bissardon,69300,Caluire-et-Cuire,69034,316,
+PAR-69034-051,Stade ferré,51,15,Boulevard Paul Doumer,69300,Caluire-et-Cuire,69034,7770,
+PAR-69034-052,Voie Verte,52,,Voie de la Dombes,69300,Caluire-et-Cuire,69034,101534,
+PAR-69034-013,Jardin d'Eden,13,,Avenue Jean Monnet (le long de la voie Verte),69300,Caluire-et-Cuire,69034,1213,2022
+PAR-69034-053,Square Geneviève de Gaulle-Anthonioz,53,22,rue Lucien Maître,69300,Caluire-et-Cuire,69034,741,2023
